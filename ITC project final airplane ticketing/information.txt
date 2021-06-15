@@ -1,0 +1,6 @@
+3 3 AirBlue 3 1 PAK LON 30000
+3 3 AirBlue 3 1 PAK LON 30000
+13 tehreem AirBlue 18 1 PAK LON 30000
+15 tehreem AirBlue 18 1 PAK LON 30000
+16 tehreem AirBlue 18 1 PAK LON 30000
+46 tehreem AirBlue 16 1 PAK LON 30000

@@ -1,4 +1,4 @@
-# Airplane_Ticketing_System
+# Airplane Ticketing System
 A fully functional Airplane Ticketing System that will help the admin to automate the ticketing process
 
 # Functionalities
